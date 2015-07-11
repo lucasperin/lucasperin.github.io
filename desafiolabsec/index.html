@@ -114,10 +114,10 @@ $ sudo make install
 </pre><p>If you are running a 64bits OS, run the following commands: </p><pre class="fragment">$ CFLAGS=-fPIC ./config shared
 $ make
 $ sudo make install
-</pre><p>Check if your installation is working: </p><pre class="fragment">$ /user/local/ssl/openssl version
+</pre><p>Check if your installation is working: </p><pre class="fragment">$ /user/local/ssl/bin/openssl version
 OpenSSL 1.0.2c 12 Jun 2015
 </pre><h2>LibcryptoSec</h2>
-<p>Since OpenSSL is writen in C and very hard to work with, we have developed an Object Oriented C++ wrapper of OpenSSL. We call it LibCryptoSec! It is currently under development and was written entirely by undergraduate and graduate studets. We hope you can contribute someday!</p>
+<p>Since OpenSSL is writen in C and very hard to work with, we have developed an Object Oriented C++ wrapper of OpenSSL. We call it LibCryptoSec! It is currently under development and was written entirely by undergraduate and graduate students. We hope you can contribute someday!</p>
 <p>Before installing Libcryptosec, you need to install OpenSSL first. If you haven't done so, please head back to the <a href="#openssl">OpenSSL</a> section.</p>
 <p>Download the <a href="https://projetos.labsec.ufsc.br/libcryptosec">latest version</a> and check the <a href="https://projetos.labsec.ufsc.br/libcryptosec/doxygen/index.html">documentation page</a>.</p>
 <p>If you are running a 32bits OS, run the following commands: </p><pre class="fragment">$ make
@@ -149,7 +149,9 @@ $ make evaluate
 $ make first
 $ make second
 $ make third
-...
+$ make fourth
+$ make fifth
+$ make sixth
 </pre><p>The evaluation tool uses <a href="https://code.google.com/p/googletest/">Google's C++ Testing Framework</a>. The last 3 Milestones tests are not implemented. The tests ready to run but will <b>FAIL</b> by default. You will have to implement these tests using Google's API. </p><hr/>
 <h1>Getting Started</h1>
 <p>Start by reading the documentation inside the header files of each Milestone. You will implement your code in the cpp files and use header files if needed. All of the variables available should be used. Don't forget to implement <b>FIleIo</b> class inside the <em>utils</em> folder. Also, the <b><a class="el" href="trace_8h.html#a494d31903e7b0333dfa03b0778679113">TRACE(x)</a></b> macro is available to help debug when needed. </p><hr/>

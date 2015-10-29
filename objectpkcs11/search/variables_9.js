@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['parameter',['parameter',['../structck__mechanism.html#a99295fd637c9bf3d0beed6acf455ff18',1,'ck_mechanism']]],
-  ['parameter_5flen',['parameter_len',['../structck__mechanism.html#a4788ec26bac3c69bf1160be1cc334d55',1,'ck_mechanism']]],
-  ['ppublicdata',['pPublicData',['../structCK__ECDH1__DERIVE__PARAMS.html#aa604955f661c320379d8e387a606c4e3',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['pshareddata',['pSharedData',['../structCK__ECDH1__DERIVE__PARAMS.html#a1e45c8790f277b738e88d975e828c308',1,'CK_ECDH1_DERIVE_PARAMS']]]
+  ['reserved',['reserved',['../structck__c__initialize__args.html#aad179c5d175d8e8aa1298f7c5a4405fc',1,'ck_c_initialize_args']]],
+  ['rw_5fsession_5fcount',['rw_session_count',['../structck__token__info.html#aa226f88abebbe9235625c6c524ab7382',1,'ck_token_info']]]
 ];

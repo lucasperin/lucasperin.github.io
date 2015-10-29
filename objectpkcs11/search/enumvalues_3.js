@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['serial_5fsession',['SERIAL_SESSION',['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142a855ef79f3f263580908146786bfbefea',1,'CryptokiSessionInfo']]]
+  ['hardware_5fslot',['HARDWARE_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a184293ac42689fd7cda0e332396584fa',1,'CryptokiInfo']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['empty',['EMPTY',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a5c9ac8320fe5b6e2ebbace76592da710',1,'CryptokiInfo::EMPTY()'],['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142a217dbe40867caf8c156fd8221b924359',1,'CryptokiSessionInfo::EMPTY()']]]
+  ['alive',['ALIVE',['../classP11Init.html#a9050973347127102ee4d951fa7f474b2a482cc06184fe81951844e17f47d5411a',1,'P11Init']]]
 ];

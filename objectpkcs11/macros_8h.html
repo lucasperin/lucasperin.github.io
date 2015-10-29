@@ -112,8 +112,46 @@ Macros</h2></td></tr>
 <tr class="separator:aafcb7e195b71e346b37a168b6cda9228"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2fac5958b71067ea633af618e18b2db"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="macros_8h.html#ad2fac5958b71067ea633af618e18b2db">TRACEm_ERROR</a>(fmt, ...)</td></tr>
 <tr class="separator:ad2fac5958b71067ea633af618e18b2db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afef3f4b63e49ea3f836b00481baaa063"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="macros_8h.html#afef3f4b63e49ea3f836b00481baaa063">EXPECT_ZERO</a>(x)</td></tr>
+<tr class="separator:afef3f4b63e49ea3f836b00481baaa063"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91aaf0ecfafec2a1d30130b5a2c5b3df"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="macros_8h.html#a91aaf0ecfafec2a1d30130b5a2c5b3df">EXPECT_N_ZERO</a>(x)</td></tr>
+<tr class="separator:a91aaf0ecfafec2a1d30130b5a2c5b3df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9990aeef2c71304cf7e8f3a8ee93f3c8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="macros_8h.html#a9990aeef2c71304cf7e8f3a8ee93f3c8">PRECONDITION</a>(x)&#160;&#160;&#160;<a class="el" href="macros_8h.html#a91aaf0ecfafec2a1d30130b5a2c5b3df">EXPECT_N_ZERO</a>(x)</td></tr>
+<tr class="separator:a9990aeef2c71304cf7e8f3a8ee93f3c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
+<a class="anchor" id="a91aaf0ecfafec2a1d30130b5a2c5b3df"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define EXPECT_N_ZERO</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">x</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="afef3f4b63e49ea3f836b00481baaa063"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define EXPECT_ZERO</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">x</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a681680feae4df4182d532564c42fa1fc"></a>
 <div class="memitem">
 <div class="memproto">
@@ -144,6 +182,22 @@ Macros</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">#define OK&#160;&#160;&#160;<a class="el" href="macros_8h.html#a494d31903e7b0333dfa03b0778679113">TRACE</a>(&quot;\e[32m[OK]&quot;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a9990aeef2c71304cf7e8f3a8ee93f3c8"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define PRECONDITION</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">x</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="macros_8h.html#a91aaf0ecfafec2a1d30130b5a2c5b3df">EXPECT_N_ZERO</a>(x)</td>
         </tr>
       </table>
 </div><div class="memdoc">

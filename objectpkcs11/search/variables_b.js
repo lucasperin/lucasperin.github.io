@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['serial_5fnumber',['serial_number',['../structck__token__info.html#a2ad5832fe061ff59939acdab81e59e51',1,'ck_token_info']]],
-  ['session',['session',['../classCryptokiSession.html#a67e1f020bd255e64efed901802002360',1,'CryptokiSession']]],
-  ['session_5fcount',['session_count',['../structck__token__info.html#acfde56e051ce0043d34e0ea092254594',1,'ck_token_info']]],
-  ['slot_5fdescription',['slot_description',['../structck__slot__info.html#afd9ce37b617b686c2388864ad7c91f36',1,'ck_slot_info']]],
-  ['slot_5fid',['slot_id',['../structck__session__info.html#a58fd4e35f2d334a037774ff21a3bc417',1,'ck_session_info']]],
-  ['state',['state',['../structck__session__info.html#a07f277953cf9b87de9e5523c34382944',1,'ck_session_info']]]
+  ['total_5fprivate_5fmemory',['total_private_memory',['../structck__token__info.html#a85a14795ee14b699a3ba3b8ec1eb96f2',1,'ck_token_info']]],
+  ['total_5fpublic_5fmemory',['total_public_memory',['../structck__token__info.html#a09f1174fce8f60d5fab1e33e90508180',1,'ck_token_info']]],
+  ['type',['type',['../structck__attribute.html#afa4cb24f43cd84ae898658e6d93af6b2',1,'ck_attribute']]]
 ];

@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['info',['info',['../classCryptokiInfo.html#ae0a4e5f2cc465edd26144979821ed4a1',1,'CryptokiInfo::info()'],['../classCryptokiSessionInfo.html#a8e2c25589b2454c95a03a8bc37ac27dd',1,'CryptokiSessionInfo::info()']]],
-  ['initialize',['initialize',['../group__general.html#ga579b876d55f004141540d6d3112ab923',1,'P11']]],
-  ['initpin',['initPin',['../group__slot.html#ga815244b99a84a321ca9365cd5aa84ef5',1,'P11']]],
-  ['inittoken',['initToken',['../group__slot.html#ga8265d280b6ee40e6621e56f2e375d669',1,'P11']]]
+  ['hardware_5fslot',['HARDWARE_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a184293ac42689fd7cda0e332396584fa',1,'CryptokiInfo']]],
+  ['hardware_5fversion',['hardware_version',['../structck__slot__info.html#aae816d44be706f5c70aaf3cecd9e5f67',1,'ck_slot_info::hardware_version()'],['../structck__token__info.html#afc67e4c279a4103d9079f45d4276b3e8',1,'ck_token_info::hardware_version()'],['../pkcs11_8h.html#a2dda92f63d65bed9e5b111e988bf4c66',1,'hardware_version():&#160;pkcs11.h']]]
 ];

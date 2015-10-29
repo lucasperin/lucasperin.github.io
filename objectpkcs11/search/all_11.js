@@ -1,8 +1,16 @@
 var searchData=
 [
-  ['ulpublicdatalen',['ulPublicDataLen',['../structCK__ECDH1__DERIVE__PARAMS.html#a41bc27a3d8d1d454d5d24656c696cfec',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['ulshareddatalen',['ulSharedDataLen',['../structCK__ECDH1__DERIVE__PARAMS.html#ab0399733f215d06c0709c246f283d055',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['unknown',['UNKNOWN',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4aaa7cbd3f1db0639901b79eaac5657b7c',1,'CryptokiInfo::UNKNOWN()'],['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142a75b08ff142bee952c4fc3196ab5b79e8',1,'CryptokiSessionInfo::UNKNOWN()']]],
-  ['unlock_5fmutex',['unlock_mutex',['../structck__c__initialize__args.html#ab3d5edf33784b4c7d15d17cec7e6ff99',1,'ck_c_initialize_args::unlock_mutex()'],['../pkcs11_8h.html#a0e16bb35dca7ee41d5d7802f3b84cf6b',1,'unlock_mutex():&#160;pkcs11.h']]],
-  ['utc_5ftime',['utc_time',['../structck__token__info.html#a0a23c128823ca2e334968032a1edb680',1,'ck_token_info::utc_time()'],['../pkcs11_8h.html#a18df9715d609e805221fa6b735a5cfcc',1,'utc_time():&#160;pkcs11.h']]]
+  ['testapi',['testAPI',['../main_8cpp.html#ad31e975e87fa52542974a684285a6039',1,'main.cpp']]],
+  ['tkn_5fpst_5fn_5fhw_5fslot',['TKN_PST_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a3bef9d3ac9612f011a8fe9dc23d89df1',1,'CryptokiInfo']]],
+  ['tkn_5fpst_5fn_5frmv_5fdvc',['TKN_PST_N_RMV_DVC',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4aee6fc07a18fa8ec8fea203c6ff9b8555',1,'CryptokiInfo']]],
+  ['tkn_5fpst_5fn_5frmv_5fdvc_5fn_5fhw_5fslot',['TKN_PST_N_RMV_DVC_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a475c8f41d514fe661383abc7a8c81c98',1,'CryptokiInfo']]],
+  ['token_5fis_5fpresent',['TOKEN_IS_PRESENT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4abff016863d8a409e504b8bf767c7b0ec',1,'CryptokiInfo']]],
+  ['total_5fprivate_5fmemory',['total_private_memory',['../structck__token__info.html#a85a14795ee14b699a3ba3b8ec1eb96f2',1,'ck_token_info::total_private_memory()'],['../pkcs11_8h.html#a61a69687aec1ceebacf61526aff0b630',1,'total_private_memory():&#160;pkcs11.h']]],
+  ['total_5fpublic_5fmemory',['total_public_memory',['../structck__token__info.html#a09f1174fce8f60d5fab1e33e90508180',1,'ck_token_info::total_public_memory()'],['../pkcs11_8h.html#a3f9cea1df76d99e7ee437265933c808c',1,'total_public_memory():&#160;pkcs11.h']]],
+  ['trace',['TRACE',['../macros_8h.html#a494d31903e7b0333dfa03b0778679113',1,'macros.h']]],
+  ['trace_5ferror',['TRACE_ERROR',['../macros_8h.html#aafcb7e195b71e346b37a168b6cda9228',1,'macros.h']]],
+  ['tracem',['TRACEm',['../macros_8h.html#a6351be051510ec49cb9eb14a3e5641e8',1,'macros.h']]],
+  ['tracem_5ferror',['TRACEm_ERROR',['../macros_8h.html#ad2fac5958b71067ea633af618e18b2db',1,'macros.h']]],
+  ['true',['TRUE',['../pkcs11_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'pkcs11.h']]],
+  ['type',['type',['../structck__attribute.html#afa4cb24f43cd84ae898658e6d93af6b2',1,'ck_attribute']]]
 ];

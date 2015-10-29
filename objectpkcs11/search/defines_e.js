@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['value',['value',['../pkcs11_8h.html#a7ee752b8725a25ed58c5d2b2c77da72f',1,'pkcs11.h']]],
-  ['value_5flen',['value_len',['../pkcs11_8h.html#adb2868eaaa3f1714ebbd8294c7288000',1,'pkcs11.h']]]
+  ['unlock_5fmutex',['unlock_mutex',['../pkcs11_8h.html#a0e16bb35dca7ee41d5d7802f3b84cf6b',1,'pkcs11.h']]],
+  ['utc_5ftime',['utc_time',['../pkcs11_8h.html#a18df9715d609e805221fa6b735a5cfcc',1,'pkcs11.h']]]
 ];

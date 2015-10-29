@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['tkn_5fpst_5fn_5fhw_5fslot',['TKN_PST_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a3bef9d3ac9612f011a8fe9dc23d89df1',1,'CryptokiInfo']]],
-  ['tkn_5fpst_5fn_5frmv_5fdvc',['TKN_PST_N_RMV_DVC',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4aee6fc07a18fa8ec8fea203c6ff9b8555',1,'CryptokiInfo']]],
-  ['tkn_5fpst_5fn_5frmv_5fdvc_5fn_5fhw_5fslot',['TKN_PST_N_RMV_DVC_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a475c8f41d514fe661383abc7a8c81c98',1,'CryptokiInfo']]],
-  ['token_5fis_5fpresent',['TOKEN_IS_PRESENT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4abff016863d8a409e504b8bf767c7b0ec',1,'CryptokiInfo']]]
+  ['removable_5fdevice',['REMOVABLE_DEVICE',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4abab4569689facd117e3fdbe14ad2733e',1,'CryptokiInfo']]],
+  ['rmv_5fdvc_5fn_5fhw_5fslot',['RMV_DVC_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a92f32f6a64a8df90b450fe8ebeb0699f',1,'CryptokiInfo']]],
+  ['rw_5fsession',['RW_SESSION',['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142a00f21da70611f5d513011fe39d319002',1,'CryptokiSessionInfo']]]
 ];

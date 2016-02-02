@@ -1,9 +1,19 @@
 var searchData=
 [
-  ['readme_2emd',['README.md',['../README_8md.html',1,'']]],
-  ['removable_5fdevice',['REMOVABLE_DEVICE',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a6001972787e306c0a3469ec112ca0e4a',1,'objck::Info']]],
-  ['reserved',['reserved',['../structck__c__initialize__args.html#aad179c5d175d8e8aa1298f7c5a4405fc',1,'ck_c_initialize_args::reserved()'],['../pkcs11_8h.html#a54b44b284e7b978df176ebf111fd52ae',1,'reserved():&#160;pkcs11.h']]],
-  ['rmv_5fdvc_5fn_5fhw_5fslot',['RMV_DVC_N_HW_SLOT',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a883f80194aab72069483216e98d3ce16',1,'objck::Info']]],
-  ['rw_5fsession',['RW_SESSION',['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcffad1e0611596e8a74c3e49aa49fcaa9ecd',1,'objck::SessionInfo']]],
-  ['rw_5fsession_5fcount',['rw_session_count',['../structck__token__info.html#aa226f88abebbe9235625c6c524ab7382',1,'ck_token_info::rw_session_count()'],['../pkcs11_8h.html#af1d44e1a06c9d9dc32add66d896a4af6',1,'rw_session_count():&#160;pkcs11.h']]]
+  ['serial_5fsession',['SERIAL_SESSION',['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcffa435fd572f7b28e62d6b52b6ba2a12a24',1,'objck::SessionInfo']]],
+  ['session',['Session',['../classobjck_1_1Session.html',1,'objck']]],
+  ['session',['Session',['../classobjck_1_1SessionInfo.html#afbdd63a566878ce30072e785ca7e7740',1,'objck::SessionInfo::Session()'],['../classobjck_1_1Session.html#a57ad5c9e8e234781826b95f3b2b533aa',1,'objck::Session::Session()'],['../classobjck_1_1Session.html#a4028878e961f85679c9c47c12c7f672c',1,'objck::Session::Session(Session &amp;&amp;other)'],['../group__session.html',1,'(Global Namespace)']]],
+  ['session_2ecpp',['Session.cpp',['../Session_8cpp.html',1,'']]],
+  ['session_2eh',['Session.h',['../Session_8h.html',1,'']]],
+  ['sessionflags',['SessionFlags',['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcff',1,'objck::SessionInfo']]],
+  ['sessioninfo',['SessionInfo',['../classobjck_1_1SessionInfo.html',1,'objck']]],
+  ['sessioninfo_2ecpp',['SessionInfo.cpp',['../SessionInfo_8cpp.html',1,'']]],
+  ['sessioninfo_2eh',['SessionInfo.h',['../SessionInfo_8h.html',1,'']]],
+  ['setoperationstate',['setOperationState',['../group__session.html#ga3590caca29a6e75a10cd6ef33e6d75a8',1,'objck::Session']]],
+  ['slotid',['slotId',['../classobjck_1_1SessionInfo.html#a5d904a00424165281378e2ef4fbd2828',1,'objck::SessionInfo']]],
+  ['state',['state',['../classobjck_1_1Stateful.html#a2541c855462e00b65c386f8710f73f08',1,'objck::Stateful::state()'],['../classobjck_1_1SessionInfo.html#a2c748e1b73910786b1e6cd1545765251',1,'objck::SessionInfo::state()']]],
+  ['stateful',['Stateful',['../classobjck_1_1Stateful.html',1,'objck']]],
+  ['stateful',['Stateful',['../classobjck_1_1Stateful.html#a66423a7cf2bc0d1b35579a29f6a70d30',1,'objck::Stateful']]],
+  ['stateful_2eh',['Stateful.h',['../Stateful_8h.html',1,'']]],
+  ['slot_20and_20token_20anagement_20functions',['Slot and Token anagement functions',['../group__tokenslot.html',1,'']]]
 ];

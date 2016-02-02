@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['version',['version',['../classobjck_1_1Info.html#a651ff30b131611438132a54d31264cc0',1,'objck::Info']]]
+  ['what',['what',['../classCryptokiException.html#a77667e2fd25f26843d71854abf4a352d',1,'CryptokiException']]],
+  ['where',['where',['../classCryptokiException.html#a5de2cb6150a59a0583955a070433b596',1,'CryptokiException']]]
 ];

@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['geterrorcode',['getErrorCode',['../classCryptokiException.html#aa2d2dcee56372e7b529e1c1056899dbf',1,'CryptokiException']]],
-  ['getfunctionlist',['getFunctionList',['../group__general.html#ga3d9e59d84a19a9d031c94014d02ab2e7',1,'objck::Cryptoki']]],
-  ['getinfo',['getInfo',['../group__general.html#ga35df2ce8467d11b1dd369e5c95d6ab34',1,'objck::Cryptoki::getInfo()'],['../classobjck_1_1Info.html#a62408305b82e31e58579ea8ac7c0549f',1,'objck::Info::getInfo()']]],
-  ['getoperationstate',['getOperationState',['../group__session.html#ga25a6e7c80571203f889c490c9ca9f5a8',1,'objck::Session']]],
-  ['getsessionhandle',['getSessionHandle',['../group__session.html#ga87afb78b849bb836f2d94081f288087a',1,'objck::Session']]],
-  ['getsessioninfo',['getSessionInfo',['../group__session.html#ga30c4b92c2c9d4ec653a68802fb11176b',1,'objck::Session::getSessionInfo()'],['../classobjck_1_1SessionInfo.html#ab494bd0351057489682ba82002c51f4d',1,'objck::SessionInfo::getSessionInfo()']]],
-  ['getstate',['getState',['../classobjck_1_1Stateful.html#aad08f12b91bd041b3667af38b751d860',1,'objck::Stateful']]]
+  ['info',['Info',['../classobjck_1_1Info.html#a0623fd0aad7bfe891e589fd2dc583388',1,'objck::Info']]],
+  ['initialize',['initialize',['../group__general.html#gae884720417e816640fd45595a9ec627b',1,'objck::Cryptoki']]],
+  ['initpin',['initPin',['../group__session.html#gae7d6888fd78621a9f3e18fc1b4c23a0d',1,'objck::Session']]],
+  ['inittoken',['initToken',['../group__tokenslot.html#ga2d59b974a408beb4b691c39a3f6c03e1',1,'objck::Cryptoki']]],
+  ['isdisabled',['isDisabled',['../classobjck_1_1Stateful.html#a1d52f3f6e5db65347d190908ae4c1879',1,'objck::Stateful']]],
+  ['isenabled',['isEnabled',['../classobjck_1_1Stateful.html#afb1d63c5494134144189baf8e983ca6d',1,'objck::Stateful']]]
 ];

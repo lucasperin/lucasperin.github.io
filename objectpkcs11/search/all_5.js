@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['general',['General',['../group__general.html',1,'']]],
+  ['general_20purpose_20functions',['General Purpose Functions',['../group__general.html',1,'']]],
   ['geterrorcode',['getErrorCode',['../classCryptokiException.html#aa2d2dcee56372e7b529e1c1056899dbf',1,'CryptokiException']]],
   ['getfunctionlist',['getFunctionList',['../group__general.html#ga3d9e59d84a19a9d031c94014d02ab2e7',1,'objck::Cryptoki']]],
   ['getinfo',['getInfo',['../group__general.html#ga35df2ce8467d11b1dd369e5c95d6ab34',1,'objck::Cryptoki::getInfo()'],['../classobjck_1_1Info.html#a62408305b82e31e58579ea8ac7c0549f',1,'objck::Info::getInfo()']]],

@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.9.1"/>
-<title>Object PKCS#11 C++ Wrapper: General Purpose Functions</title>
+<title>Object PKCS#11 C++ Wrapper: Slot and Token anagement functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -79,92 +79,47 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
-<div class="title">General Purpose Functions</div>  </div>
+<div class="title">Slot and Token anagement functions</div>  </div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:gae884720417e816640fd45595a9ec627b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__general.html#gae884720417e816640fd45595a9ec627b">objck::Cryptoki::initialize</a> ()</td></tr>
-<tr class="separator:gae884720417e816640fd45595a9ec627b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga35df2ce8467d11b1dd369e5c95d6ab34"><td class="memItemLeft" align="right" valign="top">Info&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__general.html#ga35df2ce8467d11b1dd369e5c95d6ab34">objck::Cryptoki::getInfo</a> ()</td></tr>
-<tr class="separator:ga35df2ce8467d11b1dd369e5c95d6ab34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga3d9e59d84a19a9d031c94014d02ab2e7"><td class="memItemLeft" align="right" valign="top">FunctionList&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__general.html#ga3d9e59d84a19a9d031c94014d02ab2e7">objck::Cryptoki::getFunctionList</a> ()</td></tr>
-<tr class="separator:ga3d9e59d84a19a9d031c94014d02ab2e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga10bb9e10a3f782e5aad45dda4539a448"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__general.html#ga10bb9e10a3f782e5aad45dda4539a448">objck::Cryptoki::finalize</a> ()</td></tr>
-<tr class="separator:ga10bb9e10a3f782e5aad45dda4539a448"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga2d59b974a408beb4b691c39a3f6c03e1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__tokenslot.html#ga2d59b974a408beb4b691c39a3f6c03e1">objck::Cryptoki::initToken</a> (unsigned int slot, std::string &amp;soPin, std::string &amp;label)</td></tr>
+<tr class="separator:ga2d59b974a408beb4b691c39a3f6c03e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <h2 class="groupheader">Function Documentation</h2>
-<a class="anchor" id="ga10bb9e10a3f782e5aad45dda4539a448"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void objck::Cryptoki::finalize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<p>Clean up miscellaneous <a class="el" href="classobjck_1_1Cryptoki.html" title="Cryptoki API  ">Cryptoki</a> associated resources. </p>
-
-</div>
-</div>
-<a class="anchor" id="ga3d9e59d84a19a9d031c94014d02ab2e7"></a>
+<a class="anchor" id="ga2d59b974a408beb4b691c39a3f6c03e1"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">FunctionList objck::Cryptoki::getFunctionList </td>
+          <td class="memname">void objck::Cryptoki::initToken </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype">unsigned int&#160;</td>
+          <td class="paramname"><em>slot</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<p>Obtains entry points of <a class="el" href="classobjck_1_1Cryptoki.html" title="Cryptoki API  ">Cryptoki</a> library functions. </p>
-
-</div>
-</div>
-<a class="anchor" id="ga35df2ce8467d11b1dd369e5c95d6ab34"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">Info objck::Cryptoki::getInfo </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>soPin</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<p>Obtains general information about <a class="el" href="classobjck_1_1Cryptoki.html" title="Cryptoki API  ">Cryptoki</a>. </p>
-
-</div>
-</div>
-<a class="anchor" id="gae884720417e816640fd45595a9ec627b"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">void objck::Cryptoki::initialize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>label</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Initializes <a class="el" href="classobjck_1_1Cryptoki.html" title="Cryptoki API  ">Cryptoki</a>. </p>
+<p>Initializes a Token. </p>
 
 </div>
 </div>

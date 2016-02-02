@@ -1,9 +1,11 @@
 var searchData=
 [
-  ['info',['Info',['../classobjck_1_1Info.html#a0623fd0aad7bfe891e589fd2dc583388',1,'objck::Info']]],
-  ['initialize',['initialize',['../group__general.html#gae884720417e816640fd45595a9ec627b',1,'objck::Cryptoki']]],
-  ['initpin',['initPin',['../group__session.html#gae7d6888fd78621a9f3e18fc1b4c23a0d',1,'objck::Session']]],
-  ['inittoken',['initToken',['../group__slot.html#ga2d59b974a408beb4b691c39a3f6c03e1',1,'objck::Cryptoki']]],
-  ['isdisabled',['isDisabled',['../classobjck_1_1Stateful.html#a1d52f3f6e5db65347d190908ae4c1879',1,'objck::Stateful']]],
-  ['isenabled',['isEnabled',['../classobjck_1_1Stateful.html#afb1d63c5494134144189baf8e983ca6d',1,'objck::Stateful']]]
+  ['librarydescription',['libraryDescription',['../classobjck_1_1Info.html#ae8b3e4816be469e5b4252bec2f6a0d8f',1,'objck::Info']]],
+  ['librarymajorversion',['libraryMajorVersion',['../classobjck_1_1Info.html#ad6089e271f95ce01a99c0f5603289c78',1,'objck::Info']]],
+  ['libraryminorversion',['libraryMinorVersion',['../classobjck_1_1Info.html#a4779c0d6c997019bd0181d95d445db18',1,'objck::Info']]],
+  ['libraryversion',['libraryVersion',['../classobjck_1_1Info.html#ae74a02a34d4629d383d0c98f28db5d6a',1,'objck::Info']]],
+  ['loadfunctions',['loadFunctions',['../classobjck_1_1Cryptoki.html#a335e80fe035c817309960be72e21e82d',1,'objck::Cryptoki']]],
+  ['loadmodule',['loadModule',['../classobjck_1_1Cryptoki.html#abe7328456d72c6bcccf2d61fb7b0fce6',1,'objck::Cryptoki']]],
+  ['login',['login',['../group__session.html#ga7e1447564012c77fed8679dd2eb927ef',1,'objck::Session']]],
+  ['logout',['logout',['../group__session.html#ga9613d4b45f2f488d1c41ea693bb0776b',1,'objck::Session']]]
 ];

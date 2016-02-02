@@ -94,7 +94,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define SESSION_H</span></div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="Stateful_8h.html">Stateful.h</a>&quot;</span></div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="pkcs11_8h.html">pkcs11.h</a>&quot;</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;pkcs11.h&quot;</span></div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="macros_8h.html">macros.h</a>&quot;</span></div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="CryptokiException_8h.html">CryptokiException.h</a>&quot;</span></div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="SessionInfo_8h.html">SessionInfo.h</a>&quot;</span></div>
@@ -106,7 +106,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;</div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="keyword">protected</span>:</div>
 <div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="classobjck_1_1Session.html#ab87d6b0aa7c232e10cc9af3f0e1bf747">   31</a></span>&#160;    CK_SESSION_HANDLE <a class="code" href="classobjck_1_1Session.html#ab87d6b0aa7c232e10cc9af3f0e1bf747">_session</a>;</div>
-<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="classobjck_1_1Session.html#a5a7fbd6d29a4cc0913fa4c0ae621111f">   32</a></span>&#160;    <a class="code" href="structck__function__list.html">CK_FUNCTION_LIST_PTR</a> <a class="code" href="classobjck_1_1Session.html#a5a7fbd6d29a4cc0913fa4c0ae621111f">_functionList</a>;</div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="classobjck_1_1Session.html#a5a7fbd6d29a4cc0913fa4c0ae621111f">   32</a></span>&#160;    CK_FUNCTION_LIST_PTR <a class="code" href="classobjck_1_1Session.html#a5a7fbd6d29a4cc0913fa4c0ae621111f">_functionList</a>;</div>
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="keyword">public</span>:</div>
 <div class="line"><a name="l00034"></a><span class="lineno"><a class="line" href="classobjck_1_1Session.html#a57ad5c9e8e234781826b95f3b2b533aa">   34</a></span>&#160;    <a class="code" href="classobjck_1_1Session.html#a57ad5c9e8e234781826b95f3b2b533aa">Session</a>() : <a class="code" href="classobjck_1_1Stateful.html">Stateful</a>(), _functionList(0) {};</div>
 <div class="line"><a name="l00035"></a><span class="lineno"><a class="line" href="classobjck_1_1Session.html#a4028878e961f85679c9c47c12c7f672c">   35</a></span>&#160;    <a class="code" href="classobjck_1_1Session.html#a4028878e961f85679c9c47c12c7f672c">Session</a>(<a class="code" href="classobjck_1_1Session.html">Session</a>&amp;&amp; other) {</div>
@@ -162,12 +162,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classobjck_1_1Session_html_a5eacee3c87d184e84472d8d3b4897042"><div class="ttname"><a href="classobjck_1_1Session.html#a5eacee3c87d184e84472d8d3b4897042">objck::Session::~Session</a></div><div class="ttdeci">virtual ~Session()</div><div class="ttdef"><b>Definition:</b> Session.h:41</div></div>
 <div class="ttc" id="group__session_html_ga87afb78b849bb836f2d94081f288087a"><div class="ttname"><a href="group__session.html#ga87afb78b849bb836f2d94081f288087a">objck::Session::getSessionHandle</a></div><div class="ttdeci">CK_SESSION_HANDLE getSessionHandle()</div></div>
 <div class="ttc" id="group__session_html_ga9613d4b45f2f488d1c41ea693bb0776b"><div class="ttname"><a href="group__session.html#ga9613d4b45f2f488d1c41ea693bb0776b">objck::Session::logout</a></div><div class="ttdeci">void logout()</div></div>
-<div class="ttc" id="pkcs11_8h_html"><div class="ttname"><a href="pkcs11_8h.html">pkcs11.h</a></div></div>
-<div class="ttc" id="namespaceobjck_html"><div class="ttname"><a href="namespaceobjck.html">objck</a></div><div class="ttdef"><b>Definition:</b> Cryptoki.h:18</div></div>
+<div class="ttc" id="namespaceobjck_html"><div class="ttname"><a href="namespaceobjck.html">objck</a></div><div class="ttdef"><b>Definition:</b> Cryptoki.h:15</div></div>
 <div class="ttc" id="group__session_html_ga86a3d93146f48312eee003df89a62fa5"><div class="ttname"><a href="group__session.html#ga86a3d93146f48312eee003df89a62fa5">objck::Session::closeSession</a></div><div class="ttdeci">void closeSession()</div><div class="ttdef"><b>Definition:</b> Session.cpp:4</div></div>
 <div class="ttc" id="classobjck_1_1Session_html_a4028878e961f85679c9c47c12c7f672c"><div class="ttname"><a href="classobjck_1_1Session.html#a4028878e961f85679c9c47c12c7f672c">objck::Session::Session</a></div><div class="ttdeci">Session(Session &amp;&amp;other)</div><div class="ttdef"><b>Definition:</b> Session.h:35</div></div>
 <div class="ttc" id="classobjck_1_1Cryptoki_html"><div class="ttname"><a href="classobjck_1_1Cryptoki.html">objck::Cryptoki</a></div><div class="ttdoc">Cryptoki API  </div><div class="ttdef"><b>Definition:</b> Cryptoki.h:33</div></div>
-<div class="ttc" id="structck__function__list_html"><div class="ttname"><a href="structck__function__list.html">ck_function_list</a></div><div class="ttdef"><b>Definition:</b> pkcs11.h:1045</div></div>
 <div class="ttc" id="classobjck_1_1Stateful_html"><div class="ttname"><a href="classobjck_1_1Stateful.html">objck::Stateful</a></div><div class="ttdoc">Initializable abstract class  </div><div class="ttdef"><b>Definition:</b> Stateful.h:16</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->

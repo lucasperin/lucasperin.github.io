@@ -95,13 +95,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &lt;string&gt;</span></div>
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;</div>
-<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="pkcs11_8h.html">pkcs11.h</a>&quot;</span></div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;pkcs11.h&quot;</span></div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespaceobjck.html">objck</a> {</div>
 <div class="line"><a name="l00021"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html">   21</a></span>&#160;<span class="keyword">class </span><a class="code" href="classobjck_1_1Info.html">Info</a> {</div>
 <div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html#ae7e3ec0c86f0fd93eb71a28dd020126a">   22</a></span>&#160;    <span class="keyword">friend</span> <span class="keyword">class </span><a class="code" href="classobjck_1_1Cryptoki.html">Cryptoki</a>;</div>
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="keyword">protected</span>:</div>
-<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html#aa66cf11af29444ac67fb178bd554696a">   24</a></span>&#160;    <a class="code" href="structck__info.html">CK_INFO</a> <a class="code" href="classobjck_1_1Info.html#aa66cf11af29444ac67fb178bd554696a">_info</a>;</div>
+<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html#aa66cf11af29444ac67fb178bd554696a">   24</a></span>&#160;    CK_INFO <a class="code" href="classobjck_1_1Info.html#aa66cf11af29444ac67fb178bd554696a">_info</a>;</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">public</span>:</div>
 <div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html#a0623fd0aad7bfe891e589fd2dc583388">   26</a></span>&#160;    <a class="code" href="classobjck_1_1Info.html#a0623fd0aad7bfe891e589fd2dc583388">Info</a>(){};</div>
 <div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="classobjck_1_1Info.html#a576ab22d94f966e4afe1927c0df67ce8">   27</a></span>&#160;    <span class="keyword">virtual</span> <a class="code" href="classobjck_1_1Info.html#a576ab22d94f966e4afe1927c0df67ce8">~Info</a>(){};</div>
@@ -127,7 +127,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    std::string <a class="code" href="classobjck_1_1Info.html#ae74a02a34d4629d383d0c98f28db5d6a">libraryVersion</a>();</div>
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    <span class="keywordtype">int</span> <a class="code" href="classobjck_1_1Info.html#ad6089e271f95ce01a99c0f5603289c78">libraryMajorVersion</a>();</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    <span class="keywordtype">int</span> <a class="code" href="classobjck_1_1Info.html#a4779c0d6c997019bd0181d95d445db18">libraryMinorVersion</a>();</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <a class="code" href="structck__info.html">CK_INFO</a> <a class="code" href="classobjck_1_1Info.html#a62408305b82e31e58579ea8ac7c0549f">getInfo</a>();</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    CK_INFO <a class="code" href="classobjck_1_1Info.html#a62408305b82e31e58579ea8ac7c0549f">getInfo</a>();</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;};</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;}<span class="comment">/*END NAMESPACE*/</span></div>
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor">#endif </span><span class="comment">/*INFO_H*/</span><span class="preprocessor"></span></div>
@@ -152,12 +152,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classobjck_1_1Info_html_ad5afc92e911392081cfbd6ef276d7011"><div class="ttname"><a href="classobjck_1_1Info.html#ad5afc92e911392081cfbd6ef276d7011">objck::Info::minorVersion</a></div><div class="ttdeci">int minorVersion()</div><div class="ttdef"><b>Definition:</b> Info.cpp:13</div></div>
 <div class="ttc" id="classobjck_1_1Info_html_a576ab22d94f966e4afe1927c0df67ce8"><div class="ttname"><a href="classobjck_1_1Info.html#a576ab22d94f966e4afe1927c0df67ce8">objck::Info::~Info</a></div><div class="ttdeci">virtual ~Info()</div><div class="ttdef"><b>Definition:</b> Info.h:27</div></div>
 <div class="ttc" id="classobjck_1_1Info_html_a6ca4402a194c593d48a5c13873d400b3a53886081029fac982f3821d76617dafb"><div class="ttname"><a href="classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a53886081029fac982f3821d76617dafb">objck::Info::TKN_PST_N_RMV_DVC_N_HW_SLOT</a></div><div class="ttdef"><b>Definition:</b> Info.h:37</div></div>
-<div class="ttc" id="structck__info_html"><div class="ttname"><a href="structck__info.html">ck_info</a></div><div class="ttdef"><b>Definition:</b> pkcs11.h:193</div></div>
 <div class="ttc" id="classobjck_1_1Info_html_a651ff30b131611438132a54d31264cc0"><div class="ttname"><a href="classobjck_1_1Info.html#a651ff30b131611438132a54d31264cc0">objck::Info::version</a></div><div class="ttdeci">std::string version()</div><div class="ttdef"><b>Definition:</b> Info.cpp:3</div></div>
 <div class="ttc" id="classobjck_1_1Info_html_a6ca4402a194c593d48a5c13873d400b3a6cc8fc4b70378b85923c1747da7a0b7c"><div class="ttname"><a href="classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a6cc8fc4b70378b85923c1747da7a0b7c">objck::Info::TOKEN_IS_PRESENT</a></div><div class="ttdef"><b>Definition:</b> Info.h:31</div></div>
 <div class="ttc" id="classobjck_1_1Info_html_a6ca4402a194c593d48a5c13873d400b3a9973b43751d9530daa71b5b36aec6e88"><div class="ttname"><a href="classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a9973b43751d9530daa71b5b36aec6e88">objck::Info::EMPTY</a></div><div class="ttdef"><b>Definition:</b> Info.h:30</div></div>
-<div class="ttc" id="pkcs11_8h_html"><div class="ttname"><a href="pkcs11_8h.html">pkcs11.h</a></div></div>
-<div class="ttc" id="namespaceobjck_html"><div class="ttname"><a href="namespaceobjck.html">objck</a></div><div class="ttdef"><b>Definition:</b> Cryptoki.h:18</div></div>
+<div class="ttc" id="namespaceobjck_html"><div class="ttname"><a href="namespaceobjck.html">objck</a></div><div class="ttdef"><b>Definition:</b> Cryptoki.h:15</div></div>
 <div class="ttc" id="classobjck_1_1Cryptoki_html"><div class="ttname"><a href="classobjck_1_1Cryptoki.html">objck::Cryptoki</a></div><div class="ttdoc">Cryptoki API  </div><div class="ttdef"><b>Definition:</b> Cryptoki.h:33</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['_5fck_5fdeclare_5ffunction',['_CK_DECLARE_FUNCTION',['../pkcs11_8h.html#ae45f8314e52f42568e561149ab0f97fb',1,'pkcs11.h']]]
+  ['expect_5fn_5fzero',['EXPECT_N_ZERO',['../macros_8h.html#a91aaf0ecfafec2a1d30130b5a2c5b3df',1,'macros.h']]],
+  ['expect_5fzero',['EXPECT_ZERO',['../macros_8h.html#afef3f4b63e49ea3f836b00481baaa063',1,'macros.h']]]
 ];

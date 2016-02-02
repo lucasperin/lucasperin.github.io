@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['ulpublicdatalen',['ulPublicDataLen',['../structCK__ECDH1__DERIVE__PARAMS.html#a41bc27a3d8d1d454d5d24656c696cfec',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['ulshareddatalen',['ulSharedDataLen',['../structCK__ECDH1__DERIVE__PARAMS.html#ab0399733f215d06c0709c246f283d055',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['unknown',['UNKNOWN',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4aaa7cbd3f1db0639901b79eaac5657b7c',1,'CryptokiInfo::UNKNOWN()'],['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142a75b08ff142bee952c4fc3196ab5b79e8',1,'CryptokiSessionInfo::UNKNOWN()']]],
-  ['unlock_5fmutex',['unlock_mutex',['../structck__c__initialize__args.html#ab3d5edf33784b4c7d15d17cec7e6ff99',1,'ck_c_initialize_args::unlock_mutex()'],['../pkcs11_8h.html#a0e16bb35dca7ee41d5d7802f3b84cf6b',1,'unlock_mutex():&#160;pkcs11.h']]],
-  ['utc_5ftime',['utc_time',['../structck__token__info.html#a0a23c128823ca2e334968032a1edb680',1,'ck_token_info::utc_time()'],['../pkcs11_8h.html#a18df9715d609e805221fa6b735a5cfcc',1,'utc_time():&#160;pkcs11.h']]]
+  ['value',['value',['../structck__attribute.html#af53441b051f68865ee18a22b15615b73',1,'ck_attribute::value()'],['../pkcs11_8h.html#a7ee752b8725a25ed58c5d2b2c77da72f',1,'value():&#160;pkcs11.h']]],
+  ['value_5flen',['value_len',['../structck__attribute.html#abafc3ba41b94d2397445fdfa3db029a3',1,'ck_attribute::value_len()'],['../pkcs11_8h.html#adb2868eaaa3f1714ebbd8294c7288000',1,'value_len():&#160;pkcs11.h']]],
+  ['version',['version',['../structck__function__list.html#a7eacd2b5739572a5b8aadcae02a760aa',1,'ck_function_list::version()'],['../classobjck_1_1Info.html#a651ff30b131611438132a54d31264cc0',1,'objck::Info::version()']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['p11',['P11',['../classCryptokiInfo.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiInfo::P11()'],['../classCryptokiSession.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiSession::P11()']]]
+  ['session',['Session',['../classobjck_1_1SessionInfo.html#afbdd63a566878ce30072e785ca7e7740',1,'objck::SessionInfo']]]
 ];

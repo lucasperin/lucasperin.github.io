@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['alive',['ALIVE',['../classP11Init.html#a9050973347127102ee4d951fa7f474b2a482cc06184fe81951844e17f47d5411a',1,'P11Init']]]
+  ['disabled',['DISABLED',['../classobjck_1_1Stateful.html#a2541c855462e00b65c386f8710f73f08a68ee623a195f54ff3e2981b0db129d1b',1,'objck::Stateful']]]
 ];

@@ -1,11 +1,8 @@
 var searchData=
 [
-  ['closeallsessions',['closeAllSessions',['../group__session.html#gafaecd66c78bcf075ab69165187dc8290',1,'P11']]],
-  ['closemodule',['closeModule',['../classP11.html#a9b5e0bbb2706ef36cda4273d09134c8e',1,'P11']]],
-  ['closesession',['closeSession',['../group__session.html#ga9f88e5c17ae32a95116c7a2a265a241a',1,'CryptokiSession']]],
-  ['cryptokiinfo',['CryptokiInfo',['../classCryptokiInfo.html#a10214ca435bac1a770a9386dff7f33b7',1,'CryptokiInfo']]],
-  ['cryptokimajorversion',['cryptokiMajorVersion',['../classCryptokiInfo.html#a37dd3ab8c9d2aa85720932ca25ddb4f1',1,'CryptokiInfo']]],
-  ['cryptokiminorversion',['cryptokiMinorVersion',['../classCryptokiInfo.html#acc8fe2e73746fa91107e6bc5089d5639',1,'CryptokiInfo']]],
-  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html#a4b95aae892db9c6a83a2dfce56d79c7f',1,'CryptokiSession::CryptokiSession()'],['../classCryptokiSession.html#a4e4f21b22f15cc84f0c89c6a4b80cf9c',1,'CryptokiSession::CryptokiSession(CryptokiSession &amp;&amp;other)']]],
-  ['cryptokiversion',['cryptokiVersion',['../classCryptokiInfo.html#a20dc1b0c62e4061ef271b0d9720129a1',1,'CryptokiInfo']]]
+  ['closeallsessions',['closeAllSessions',['../group__session.html#ga0d02b10535ad04862b581d74ba1f02a9',1,'objck::Cryptoki']]],
+  ['closemodule',['closeModule',['../classobjck_1_1Cryptoki.html#ae8c878cb71219b27e5f1ebab69d46bf6',1,'objck::Cryptoki']]],
+  ['closesession',['closeSession',['../group__session.html#ga86a3d93146f48312eee003df89a62fa5',1,'objck::Session']]],
+  ['cryptoki',['Cryptoki',['../classobjck_1_1Cryptoki.html#a46552f1579a855b6e8280e03cc0df8b0',1,'objck::Cryptoki']]],
+  ['cryptokiexception',['CryptokiException',['../classCryptokiException.html#a9f25c7eed906ecd16ae5ab51e2e3198b',1,'CryptokiException::CryptokiException(CK_RV erc=CKR_GENERAL_ERROR)'],['../classCryptokiException.html#a672e119db5216938569e135eff5fdf6a',1,'CryptokiException::CryptokiException(const char *where, CK_RV erc=CKR_GENERAL_ERROR)']]]
 ];

@@ -1,16 +1,9 @@
 var searchData=
 [
-  ['p11',['P11',['../classP11.html',1,'P11'],['../classCryptokiInfo.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiInfo::P11()'],['../classCryptokiSession.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiSession::P11()'],['../classP11.html#a845bf626ce96041306052481684fc4ca',1,'P11::P11()']]],
-  ['p11_2ecpp',['P11.cpp',['../P11_8cpp.html',1,'']]],
-  ['p11_2eh',['P11.h',['../P11_8h.html',1,'']]],
-  ['p11exception',['P11Exception',['../classP11Exception.html',1,'P11Exception'],['../classP11Exception.html#a78f0869d793e0f7f8eef02f171182d94',1,'P11Exception::P11Exception(CK_RV erc=CKR_GENERAL_ERROR)'],['../classP11Exception.html#a515c2861fcdd1393878803550f06c4ed',1,'P11Exception::P11Exception(const char *where, CK_RV erc=CKR_GENERAL_ERROR)']]],
-  ['p11exception_2eh',['P11Exception.h',['../P11Exception_8h.html',1,'']]],
-  ['p11init',['P11Init',['../classP11Init.html',1,'P11Init'],['../classP11Init.html#a6ebfa117a5f50498b086da4da5a53a09',1,'P11Init::P11Init()']]],
-  ['p11init_2eh',['P11Init.h',['../P11Init_8h.html',1,'']]],
-  ['parameter',['parameter',['../structck__mechanism.html#a99295fd637c9bf3d0beed6acf455ff18',1,'ck_mechanism::parameter()'],['../pkcs11_8h.html#ac6915c589f2292bf68f6817727a784ab',1,'parameter():&#160;pkcs11.h']]],
-  ['parameter_5flen',['parameter_len',['../structck__mechanism.html#a4788ec26bac3c69bf1160be1cc334d55',1,'ck_mechanism::parameter_len()'],['../pkcs11_8h.html#ac67c83321875c57d370b1dbb421a6d89',1,'parameter_len():&#160;pkcs11.h']]],
-  ['pkcs11_2eh',['pkcs11.h',['../pkcs11_8h.html',1,'']]],
-  ['ppublicdata',['pPublicData',['../structCK__ECDH1__DERIVE__PARAMS.html#aa604955f661c320379d8e387a606c4e3',1,'CK_ECDH1_DERIVE_PARAMS']]],
-  ['precondition',['PRECONDITION',['../macros_8h.html#a9990aeef2c71304cf7e8f3a8ee93f3c8',1,'macros.h']]],
-  ['pshareddata',['pSharedData',['../structCK__ECDH1__DERIVE__PARAMS.html#a1e45c8790f277b738e88d975e828c308',1,'CK_ECDH1_DERIVE_PARAMS']]]
+  ['readme_2emd',['README.md',['../README_8md.html',1,'']]],
+  ['removable_5fdevice',['REMOVABLE_DEVICE',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a6001972787e306c0a3469ec112ca0e4a',1,'objck::Info']]],
+  ['reserved',['reserved',['../structck__c__initialize__args.html#aad179c5d175d8e8aa1298f7c5a4405fc',1,'ck_c_initialize_args::reserved()'],['../pkcs11_8h.html#a54b44b284e7b978df176ebf111fd52ae',1,'reserved():&#160;pkcs11.h']]],
+  ['rmv_5fdvc_5fn_5fhw_5fslot',['RMV_DVC_N_HW_SLOT',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a883f80194aab72069483216e98d3ce16',1,'objck::Info']]],
+  ['rw_5fsession',['RW_SESSION',['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcffad1e0611596e8a74c3e49aa49fcaa9ecd',1,'objck::SessionInfo']]],
+  ['rw_5fsession_5fcount',['rw_session_count',['../structck__token__info.html#aa226f88abebbe9235625c6c524ab7382',1,'ck_token_info::rw_session_count()'],['../pkcs11_8h.html#af1d44e1a06c9d9dc32add66d896a4af6',1,'rw_session_count():&#160;pkcs11.h']]]
 ];

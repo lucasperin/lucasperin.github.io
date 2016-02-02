@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['state',['state',['../classP11Init.html#a9050973347127102ee4d951fa7f474b2',1,'P11Init']]]
+  ['sessionflags',['SessionFlags',['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcff',1,'objck::SessionInfo']]],
+  ['state',['state',['../classobjck_1_1Stateful.html#a2541c855462e00b65c386f8710f73f08',1,'objck::Stateful']]]
 ];

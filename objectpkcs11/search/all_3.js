@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['day',['day',['../structck__date.html#abd1caa000c3029f922d4442bcc0f5dc2',1,'ck_date']]],
-  ['dead',['DEAD',['../classP11Init.html#a9050973347127102ee4d951fa7f474b2a665c4e0510d693b54510a82106a201e9',1,'P11Init']]],
-  ['destroy_5fmutex',['destroy_mutex',['../structck__c__initialize__args.html#a47ab2bb14f2a821a70e1aea5d63bd8b0',1,'ck_c_initialize_args::destroy_mutex()'],['../pkcs11_8h.html#a978d9d6ec8a77612af12a680c7ce7a9e',1,'destroy_mutex():&#160;pkcs11.h']]],
-  ['device_5ferror',['device_error',['../structck__session__info.html#ac03ab7b842ee33dc6358ac6f5e206166',1,'ck_session_info::device_error()'],['../pkcs11_8h.html#a5407be81ccc2eee421056d77ca196415',1,'device_error():&#160;pkcs11.h']]],
-  ['deviceerror',['deviceError',['../classCryptokiSessionInfo.html#a2fdacae6bf2e07ec2663b943829b0a94',1,'CryptokiSessionInfo']]]
+  ['empty',['EMPTY',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a9973b43751d9530daa71b5b36aec6e88',1,'objck::Info::EMPTY()'],['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcffadcdb283668669340649953fa420d2ffb',1,'objck::SessionInfo::EMPTY()']]],
+  ['enable',['enable',['../classobjck_1_1Stateful.html#a5d5b5dfa130066ba1523334d31ef505e',1,'objck::Stateful']]],
+  ['enabled',['ENABLED',['../classobjck_1_1Stateful.html#a2541c855462e00b65c386f8710f73f08a2ea64ae8262b8be134d3877db0412205',1,'objck::Stateful']]],
+  ['expect_5fn_5fzero',['EXPECT_N_ZERO',['../macros_8h.html#a91aaf0ecfafec2a1d30130b5a2c5b3df',1,'macros.h']]],
+  ['expect_5fzero',['EXPECT_ZERO',['../macros_8h.html#afef3f4b63e49ea3f836b00481baaa063',1,'macros.h']]]
 ];

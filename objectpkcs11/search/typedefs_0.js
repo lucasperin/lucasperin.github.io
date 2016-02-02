@@ -60,5 +60,5 @@ var searchData=
   ['ck_5fversion_5fptr',['CK_VERSION_PTR',['../pkcs11_8h.html#a5f85e03c01db987f7f0c7eaa4ade8721',1,'pkcs11.h']]],
   ['ck_5fvoid_5fptr',['CK_VOID_PTR',['../pkcs11_8h.html#a88e8d2cf99e26f3b3f86a0a698b0ab64',1,'pkcs11.h']]],
   ['ck_5fvoid_5fptr_5fptr',['CK_VOID_PTR_PTR',['../pkcs11_8h.html#a95700d8916fab184fcfdbb00b654d3fc',1,'pkcs11.h']]],
-  ['cryptokinotify',['CryptokiNotify',['../P11_8h.html#a3dc76ef0b1b28a2c97ba4ac143756eff',1,'P11.h']]]
+  ['cryptokinotify',['CryptokiNotify',['../Cryptoki_8h.html#a3dc76ef0b1b28a2c97ba4ac143756eff',1,'Cryptoki.h']]]
 ];

@@ -12,7 +12,6 @@ var searchData=
   ['ck_5fslot_5finfo',['ck_slot_info',['../structck__slot__info.html',1,'']]],
   ['ck_5ftoken_5finfo',['ck_token_info',['../structck__token__info.html',1,'']]],
   ['ck_5fversion',['ck_version',['../structck__version.html',1,'']]],
-  ['cryptokiinfo',['CryptokiInfo',['../classCryptokiInfo.html',1,'']]],
-  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html',1,'']]],
-  ['cryptokisessioninfo',['CryptokiSessionInfo',['../classCryptokiSessionInfo.html',1,'']]]
+  ['cryptoki',['Cryptoki',['../classobjck_1_1Cryptoki.html',1,'objck']]],
+  ['cryptokiexception',['CryptokiException',['../classCryptokiException.html',1,'']]]
 ];

@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['tkn_5fpst_5fn_5fhw_5fslot',['TKN_PST_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a3bef9d3ac9612f011a8fe9dc23d89df1',1,'CryptokiInfo']]],
-  ['tkn_5fpst_5fn_5frmv_5fdvc',['TKN_PST_N_RMV_DVC',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4aee6fc07a18fa8ec8fea203c6ff9b8555',1,'CryptokiInfo']]],
-  ['tkn_5fpst_5fn_5frmv_5fdvc_5fn_5fhw_5fslot',['TKN_PST_N_RMV_DVC_N_HW_SLOT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4a475c8f41d514fe661383abc7a8c81c98',1,'CryptokiInfo']]],
-  ['token_5fis_5fpresent',['TOKEN_IS_PRESENT',['../classCryptokiInfo.html#aadc808ea1662fa713159eceec594f9e4abff016863d8a409e504b8bf767c7b0ec',1,'CryptokiInfo']]]
+  ['unknown',['UNKNOWN',['../classobjck_1_1Info.html#a6ca4402a194c593d48a5c13873d400b3a49fe8d91120712ae16d69a1989a6785c',1,'objck::Info::UNKNOWN()'],['../classobjck_1_1SessionInfo.html#a3b2dac9b6b9a87d52b20b37f972ebcffa764544eb9ced81fd5e35f56e3523b6e6',1,'objck::SessionInfo::UNKNOWN()']]]
 ];

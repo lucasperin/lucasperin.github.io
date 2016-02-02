@@ -1,45 +1,48 @@
 var indexSectionsWithContent =
 {
-  0: "_acdefghiklmnoprstuvwy~",
-  1: "cp",
-  2: "cmpr",
-  3: "_cdfgiklmoprsw~",
-  4: "_cdfhklmprstuvy",
-  5: "cf",
-  6: "cs",
-  7: "adehrstu",
-  8: "cp",
-  9: "_cdefhlmnoprstuv",
-  10: "gs"
+  0: "_cdefghiklmnoprstuvwy~",
+  1: "cis",
+  2: "o",
+  3: "cimprs",
+  4: "_cdefgilmosvw~",
+  5: "_cdfhklmprstuvy",
+  6: "cf",
+  7: "is",
+  8: "dehrstu",
+  9: "cs",
+  10: "_cdefhlmnoprstuv",
+  11: "gs"
 };
 
 var indexSectionNames =
 {
   0: "all",
   1: "classes",
-  2: "files",
-  3: "functions",
-  4: "variables",
-  5: "typedefs",
-  6: "enums",
-  7: "enumvalues",
-  8: "related",
-  9: "defines",
-  10: "groups"
+  2: "namespaces",
+  3: "files",
+  4: "functions",
+  5: "variables",
+  6: "typedefs",
+  7: "enums",
+  8: "enumvalues",
+  9: "related",
+  10: "defines",
+  11: "groups"
 };
 
 var indexSectionLabels =
 {
   0: "All",
   1: "Classes",
-  2: "Files",
-  3: "Functions",
-  4: "Variables",
-  5: "Typedefs",
-  6: "Enumerations",
-  7: "Enumerator",
-  8: "Friends",
-  9: "Macros",
-  10: "Modules"
+  2: "Namespaces",
+  3: "Files",
+  4: "Functions",
+  5: "Variables",
+  6: "Typedefs",
+  7: "Enumerations",
+  8: "Enumerator",
+  9: "Friends",
+  10: "Macros",
+  11: "Modules"
 };
 

@@ -39,6 +39,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li class="current"><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="modules.html"><span>Modules</span></a></li>
+      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -79,18 +80,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">Object PKCS#11 C++ Wrapper Documentation</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h1>Introduction</h1>
+<div class="textblock"><p><a href="https://travis-ci.org/lucasperin/object-pkcs11">![Build Status](https://travis-ci.org/lucasperin/object-pkcs11.svg?branch=master)</a></p>
+<h1>Introduction</h1>
 <p>Recently I had to prototype some PKCS#11 code to test if the API supported symmetric key wrapping and double wrapping using RSA and ECDSA public keys. Coding with C, reading huge pdf docs and header files is just annoying. This is why I decided to start a PKCS#11 Object Oriented and well documented library. I hope it helps me and my team mates with our current projects. Moreover, if it suits you, please feel free to use, share and contribute :)</p>
 <p>My goal is to implement this library to work with simple use cases and less code. If you wish to implement more complex applications, I recommend taking a look at Libp11 from OpenSC project.</p>
 <h1>Contribution</h1>
 <p>We are designing our objects to be used with RAII pattern. Functions should always return copies and pointers are not welcome for the end user (should be kept behind curtain). Sessions are closed the object is destructed. Always consider the context of the declaration to manage "close" and "finalize" functions.</p>
 <h1>Running code with SoftHSMv2</h1>
-<p>I wrote a main file to run my API and print out some neat text with implementation status. Currently I use opensc and softhsm2 modules. I am not sure why but softhsm2 requires sudo to run access the token, therefore the same aplies to run the code.</p>
-<p>Install softhsm2 </p><pre class="fragment">$ softhsm2-util --init-token --slot 0 --label "token1"
-</pre><p>Set all passwords to 123456, then </p><pre class="fragment">$ make
-$ ./run.out /path/to/pkcs11-module.so
+<p>We wrote a PKCS11 mocker using lambda functions. In the test files we can write the PKCS11 function implementations on the fly. This allows us to test if the functions were indeed called dynamically and to evaluate the return value.</p>
+<p>run the tests with: </p><pre class="fragment">$ make test
 </pre><h1>Status</h1>
-<p>Under development as of Oct 2015 Lucas Perin </p>
+<p>Under development as of Oct 2015 Lucas Perin :) </p>
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

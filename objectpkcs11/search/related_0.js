@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cryptokisession',['CryptokiSession',['../classCryptokiSessionInfo.html#a769b5d313e80b2bff1bafa159bf2a1a5',1,'CryptokiSessionInfo']]]
+  ['cryptoki',['Cryptoki',['../classobjck_1_1Info.html#ae7e3ec0c86f0fd93eb71a28dd020126a',1,'objck::Info::Cryptoki()'],['../classobjck_1_1Session.html#ae7e3ec0c86f0fd93eb71a28dd020126a',1,'objck::Session::Cryptoki()']]]
 ];

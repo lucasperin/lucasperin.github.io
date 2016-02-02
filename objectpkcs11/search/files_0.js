@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['cryptokiinfo_2ecpp',['CryptokiInfo.cpp',['../CryptokiInfo_8cpp.html',1,'']]],
-  ['cryptokiinfo_2eh',['CryptokiInfo.h',['../CryptokiInfo_8h.html',1,'']]],
-  ['cryptokisession_2ecpp',['CryptokiSession.cpp',['../CryptokiSession_8cpp.html',1,'']]],
-  ['cryptokisession_2eh',['CryptokiSession.h',['../CryptokiSession_8h.html',1,'']]],
-  ['cryptokisessioninfo_2ecpp',['CryptokiSessionInfo.cpp',['../CryptokiSessionInfo_8cpp.html',1,'']]],
-  ['cryptokisessioninfo_2eh',['CryptokiSessionInfo.h',['../CryptokiSessionInfo_8h.html',1,'']]]
+  ['cryptoki_2ecpp',['Cryptoki.cpp',['../Cryptoki_8cpp.html',1,'']]],
+  ['cryptoki_2eh',['Cryptoki.h',['../Cryptoki_8h.html',1,'']]],
+  ['cryptokiexception_2eh',['CryptokiException.h',['../CryptokiException_8h.html',1,'']]]
 ];

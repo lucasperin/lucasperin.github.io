@@ -1,9 +1,6 @@
 var searchData=
 [
   ['macros_2eh',['macros.h',['../macros_8h.html',1,'']]],
-  ['main',['main',['../main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c',1,'main.cpp']]],
-  ['main_2ecpp',['main.cpp',['../main_8cpp.html',1,'']]],
-  ['main_5fcpp',['MAIN_CPP',['../main_8cpp.html#af6b0b7a8cf49a8aafda02b6d9c6085d6',1,'main.cpp']]],
   ['major',['major',['../structck__version.html#abfb3b2f6440141a94efc0acf83add7fd',1,'ck_version']]],
   ['manufacturer_5fid',['manufacturer_id',['../structck__info.html#a32545ef19481a232fe3358e7b0614eef',1,'ck_info::manufacturer_id()'],['../structck__slot__info.html#ad71928e604b828bc0ae8bf0a03181183',1,'ck_slot_info::manufacturer_id()'],['../structck__token__info.html#a2c6c137b6052d336d3419e26ec15445e',1,'ck_token_info::manufacturer_id()'],['../pkcs11_8h.html#aaf4c5b454e7bdd57dd28e0acbee7b6dc',1,'manufacturer_id():&#160;pkcs11.h']]],
   ['manufacturerid',['manufacturerId',['../classCryptokiInfo.html#af398df15305fe45670e44d98f89c4b79',1,'CryptokiInfo']]],

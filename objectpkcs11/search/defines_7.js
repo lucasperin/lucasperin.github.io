@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['main_5fcpp',['MAIN_CPP',['../main_8cpp.html#af6b0b7a8cf49a8aafda02b6d9c6085d6',1,'main.cpp']]],
   ['manufacturer_5fid',['manufacturer_id',['../pkcs11_8h.html#aaf4c5b454e7bdd57dd28e0acbee7b6dc',1,'pkcs11.h']]],
   ['max_5fkey_5fsize',['max_key_size',['../pkcs11_8h.html#ad31f34494369c93f3d637df9d9bfde4e',1,'pkcs11.h']]],
   ['max_5fpin_5flen',['max_pin_len',['../pkcs11_8h.html#aa10e2bce7b02099c0ed63f19c53d7987',1,'pkcs11.h']]],

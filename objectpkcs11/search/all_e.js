@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['p11',['P11',['../classP11.html',1,'P11'],['../classCryptokiInfo.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiInfo::P11()'],['../classCryptokiSession.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiSession::P11()'],['../classP11.html#a666b424be1f252c1b81389183a91dfc0',1,'P11::P11()']]],
+  ['p11',['P11',['../classP11.html',1,'P11'],['../classCryptokiInfo.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiInfo::P11()'],['../classCryptokiSession.html#a02085f5c19750e201030a58f83be4430',1,'CryptokiSession::P11()'],['../classP11.html#a845bf626ce96041306052481684fc4ca',1,'P11::P11()']]],
   ['p11_2ecpp',['P11.cpp',['../P11_8cpp.html',1,'']]],
   ['p11_2eh',['P11.h',['../P11_8h.html',1,'']]],
   ['p11exception',['P11Exception',['../classP11Exception.html',1,'P11Exception'],['../classP11Exception.html#a78f0869d793e0f7f8eef02f171182d94',1,'P11Exception::P11Exception(CK_RV erc=CKR_GENERAL_ERROR)'],['../classP11Exception.html#a515c2861fcdd1393878803550f06c4ed',1,'P11Exception::P11Exception(const char *where, CK_RV erc=CKR_GENERAL_ERROR)']]],
@@ -12,7 +12,5 @@ var searchData=
   ['pkcs11_2eh',['pkcs11.h',['../pkcs11_8h.html',1,'']]],
   ['ppublicdata',['pPublicData',['../structCK__ECDH1__DERIVE__PARAMS.html#aa604955f661c320379d8e387a606c4e3',1,'CK_ECDH1_DERIVE_PARAMS']]],
   ['precondition',['PRECONDITION',['../macros_8h.html#a9990aeef2c71304cf7e8f3a8ee93f3c8',1,'macros.h']]],
-  ['printinfo',['printInfo',['../main_8cpp.html#aab1f337fffd80759eb1806859233958c',1,'main.cpp']]],
-  ['printsessioninfo',['printSessionInfo',['../main_8cpp.html#ad292430f5f56d7a502593f5402c8cac5',1,'main.cpp']]],
   ['pshareddata',['pSharedData',['../structCK__ECDH1__DERIVE__PARAMS.html#a1e45c8790f277b738e88d975e828c308',1,'CK_ECDH1_DERIVE_PARAMS']]]
 ];

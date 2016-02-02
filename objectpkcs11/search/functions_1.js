@@ -6,6 +6,6 @@ var searchData=
   ['cryptokiinfo',['CryptokiInfo',['../classCryptokiInfo.html#a10214ca435bac1a770a9386dff7f33b7',1,'CryptokiInfo']]],
   ['cryptokimajorversion',['cryptokiMajorVersion',['../classCryptokiInfo.html#a37dd3ab8c9d2aa85720932ca25ddb4f1',1,'CryptokiInfo']]],
   ['cryptokiminorversion',['cryptokiMinorVersion',['../classCryptokiInfo.html#acc8fe2e73746fa91107e6bc5089d5639',1,'CryptokiInfo']]],
-  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html#a4b95aae892db9c6a83a2dfce56d79c7f',1,'CryptokiSession']]],
+  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html#a4b95aae892db9c6a83a2dfce56d79c7f',1,'CryptokiSession::CryptokiSession()'],['../classCryptokiSession.html#a4e4f21b22f15cc84f0c89c6a4b80cf9c',1,'CryptokiSession::CryptokiSession(CryptokiSession &amp;&amp;other)']]],
   ['cryptokiversion',['cryptokiVersion',['../classCryptokiInfo.html#a20dc1b0c62e4061ef271b0d9720129a1',1,'CryptokiInfo']]]
 ];

@@ -8,7 +8,7 @@ var searchData=
   ['libraryminorversion',['libraryMinorVersion',['../classCryptokiInfo.html#a7aa5e6fc2504a9eb1802775fb84a31aa',1,'CryptokiInfo']]],
   ['libraryversion',['libraryVersion',['../classCryptokiInfo.html#a3680154cd40b62cbb661b1b13d4f2cdf',1,'CryptokiInfo']]],
   ['loadfunctions',['loadFunctions',['../classP11.html#a975543ba7da3cdb4f5a6a1ca514c056d',1,'P11']]],
-  ['loadmodule',['loadModule',['../classP11.html#a45d261950a72eeff3f8876b702b7728b',1,'P11']]],
+  ['loadmodule',['loadModule',['../classP11.html#a740554ed2aa754f85fc953acdca33adb',1,'P11']]],
   ['lock_5fmutex',['lock_mutex',['../structck__c__initialize__args.html#a2f2cc549dff0f1874122bc3351f282f9',1,'ck_c_initialize_args::lock_mutex()'],['../pkcs11_8h.html#ac467ec69e163b4ca1661422f1cdb67b6',1,'lock_mutex():&#160;pkcs11.h']]],
   ['login',['login',['../group__session.html#ga8185cc055e855855c2061fa8613d7c63',1,'CryptokiSession']]],
   ['logout',['logout',['../group__session.html#ga0737f1cfd315af024e21d8b0dca8a5a7',1,'CryptokiSession']]]

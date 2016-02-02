@@ -647,7 +647,7 @@ var searchData=
   ['cryptokimajorversion',['cryptokiMajorVersion',['../classCryptokiInfo.html#a37dd3ab8c9d2aa85720932ca25ddb4f1',1,'CryptokiInfo']]],
   ['cryptokiminorversion',['cryptokiMinorVersion',['../classCryptokiInfo.html#acc8fe2e73746fa91107e6bc5089d5639',1,'CryptokiInfo']]],
   ['cryptokinotify',['CryptokiNotify',['../P11_8h.html#a3dc76ef0b1b28a2c97ba4ac143756eff',1,'P11.h']]],
-  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html',1,'CryptokiSession'],['../classCryptokiSessionInfo.html#a769b5d313e80b2bff1bafa159bf2a1a5',1,'CryptokiSessionInfo::CryptokiSession()'],['../classCryptokiSession.html#a4b95aae892db9c6a83a2dfce56d79c7f',1,'CryptokiSession::CryptokiSession()']]],
+  ['cryptokisession',['CryptokiSession',['../classCryptokiSession.html',1,'CryptokiSession'],['../classCryptokiSessionInfo.html#a769b5d313e80b2bff1bafa159bf2a1a5',1,'CryptokiSessionInfo::CryptokiSession()'],['../classCryptokiSession.html#a4b95aae892db9c6a83a2dfce56d79c7f',1,'CryptokiSession::CryptokiSession()'],['../classCryptokiSession.html#a4e4f21b22f15cc84f0c89c6a4b80cf9c',1,'CryptokiSession::CryptokiSession(CryptokiSession &amp;&amp;other)']]],
   ['cryptokisession_2ecpp',['CryptokiSession.cpp',['../CryptokiSession_8cpp.html',1,'']]],
   ['cryptokisession_2eh',['CryptokiSession.h',['../CryptokiSession_8h.html',1,'']]],
   ['cryptokisessionflags',['CryptokiSessionFlags',['../classCryptokiSessionInfo.html#a91187950136b53df7cee056b13a2f142',1,'CryptokiSessionInfo']]],

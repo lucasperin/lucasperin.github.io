@@ -18,8 +18,8 @@ Escrever um texto, cifrar em assinar
 * Em um arquivo TXT, escreva o nome dos membros da equipe
 * Cifre o arquivo txt utilizando ```openssl aes-128-cbc```
 * Assinar o texto **cifrado** com o certificado de cada membro do grupo
- * Gere uma HASH utilizando **sha256** do arquivo cifrado
- * Para cada membro, assine o hash e guarde a assinatura em um arquivo
+  * Gere uma HASH utilizando **sha256** do arquivo cifrado
+  * Para cada membro, assine o hash e guarde a assinatura em um arquivo
 
 ## Entregar
 Zip com os documentos:

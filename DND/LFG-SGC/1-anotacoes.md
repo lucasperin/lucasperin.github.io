@@ -1,34 +1,14 @@
 
-# Introdução
+# Anotações
 
-## BERGSHIRE
+## Missão
 
-Cidade inicial, onde fica a taberna Shananigans e o famoso Desmund, dono do estabelecimento.
+Resolver o mistério das ovelhas desaparecidas, na cidade de Kish.
 
-## GRUPO
-* Alicia - Human 50 shades of Cleric 
-* Haylan - Elf Rogue 
-* Doru - Tiefling Bard 
-
-# 1a Sessão
-
-Adventure Hook: Estavamos na taberna, durante um aniversário, quando recebemos uma missão. Ajudar taberneiro de "Owlberg" a resolver um problema. Suas ovelhas estão sumindo, na cidade de Kish. Recompensa de 50po.
-
-## Anotaçoes
-
-
-## Personagens
-
-* Bear 	- Dono da taberna Owlberg. 
-* Bug 	- Owlbear de estimação do Bear.
-* Owl 	- Irmão de Bear, dono da taberna lhama-mia. Não é receptivo e parece estar escondendo algo.
-* Jack 	- Funcionario do Owl. Amigável, pode nos dar mais informações.
-* José	- Funcionário do cherife, guarda da cidade?
-
-## Cronologia
+## Eventos
 
 * Na cidade, nos encontramos e saímos para a missão;
-* Dois duendes estão seguindo na mesma direção, possivelmente para a mesma missao;
+* Dois duendes estão seguindo na mesma direção, possivelmente para a mesma missão;
 * No caminho encontramos um humano em agonia, desespero. Alicia percebe que é um undead;
 * 1o Enocontro;
 * Chegamos a Kishe, na taberma Owlberg e recebidos pelo dono --- *Bear*. Um Owlbear está comendo aos fundos do estabelecimento.
@@ -47,8 +27,7 @@ Adventure Hook: Estavamos na taberna, durante um aniversário, quando recebemos 
 * O Lhampiro foge e a sessão termina.
 
 
-
-## Encontros
+# Encontros
 
 ## 1o Encontro vs 1 Spectro
 

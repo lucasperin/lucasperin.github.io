@@ -11,7 +11,7 @@ Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do esta
 * Alicia - Human 50 shades of Cleric 
 * Haylan - Elf Rogue 
 * Doru   - Tiefling Bard 
-* 4R-UH  - Warforged Fiighter
+* 4R-UH  - Warforged Fighter
 
 ## Personagens
 
@@ -20,6 +20,8 @@ Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do esta
 * Owl 	- Irmão de Bear, dono da taberna lhama-mia. Não é receptivo e parece estar escondendo algo.
 * Jack 	- Funcionario do Owl. Amigável, pode nos dar mais informações.
 * José	- Funcionário do cherife, guarda da cidade?
+* Gertrudes - Uma das ovelhas que morreu;
+* Josefina - Ovelha favorita;
 
 # 1a Sessão
 
@@ -28,5 +30,10 @@ Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do esta
 Adventure Hook: Estavamos na taberna, durante um aniversário, quando recebemos uma missão. Ajudar taberneiro de "Owlberg" a resolver um problema. Suas ovelhas estão sumindo, na cidade de Kish. Recompensa de 50po.
 
 # 2a Sessão
+
+[2019-07-14](2-anotacoes.md)
+
+Continuando a campanha, após o confronto contra uma lhama-vampiro na sessão passada, seguimos a procura do lhampiro e resolver o problema com as ovelhas de Bear. 
+
 
 sem data.

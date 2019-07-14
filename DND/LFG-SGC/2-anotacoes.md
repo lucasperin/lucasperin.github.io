@@ -77,4 +77,5 @@ caiu para o lado de dentro, esmagando 3 das pedras, sobrando apenas 9.
 | Doru	|Vicious Mock	| mist	|  -	| s/ efeito			|
 
 
-Ao final da batalha
+Ao final da batalha o Lhampiro se transformou em uma pequena névoa.
+Tentamos atacá-la mas não foi possível, então desapareceu entre as árvores.

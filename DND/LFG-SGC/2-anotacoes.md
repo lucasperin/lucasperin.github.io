@@ -19,16 +19,16 @@ que elfos não são afetados por Sleep.
 o restante do grupo usa o resto da manhã para buscar informaçoes;
 * Aruh e Doru são vistos esfregando alho na cara das lhamas do Lhama-mia
 e correm para a floresta. Eles retornam para Owlberg circulando pelo mato.
-* Haylan vai à igreja e compra um frasco de àgua benta, pois não quis
-correr riscod e ser pego roubando o clero.
-* Todos dormen até o por do sol, na sequencia seguimos os rastros de
+* Haylan vai à igreja e compra um frasco de água benta, pois não quis
+correr risco de ser pego roubando o clero.
+* Todos dormem até o por do sol, na sequencia seguimos os rastros de
 sangue do lhampiro na floresta. O rastro termina e não achamos nada.
 * Colocamos uma ovelha de de isca brilhando no campo, com magia de
 luz da Alicia. Aguardamos na floresta até que algo aconteça.
 * A lhampira aparece e começa o encontro!
-* Após o encontro, a Lhampira vira uma núvem e foge. Nós corremos atrás
+* Após o encontro, a Lhampira vira uma nuvem e foge. Nós corremos atrás
 até que achamos uma clareira no meio da floresta. Na clareira, uma plataforma
-com um alçapão fechado e dois corpos ao lado. Um é o cherife.
+com um alçapão fechado e dois corpos ao lado. Um é o xerife.
 * Após abrir o alçapão, descemos  cerca de 300 pés até encontrar um salão
 com 5 portas. Em uma delas, estava o lhampiro, que Aru mata usando a
 estaca que Haylan lhe entregou.

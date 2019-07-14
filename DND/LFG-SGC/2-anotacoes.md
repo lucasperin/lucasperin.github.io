@@ -23,7 +23,7 @@ e correm para a floresta. Eles retornam para Owlberg circulando pelo mato.
 correr risco de ser pego roubando o clero.
 * Todos dormem até o por do sol, na sequencia seguimos os rastros de
 sangue do lhampiro na floresta. O rastro termina e não achamos nada.
-* Colocamos uma ovelha de de isca brilhando no campo, com magia de
+* Colocamos uma ovelha de isca brilhando no campo, com magia de
 luz da Alicia. Aguardamos na floresta até que algo aconteça.
 * A lhampira aparece e começa o encontro!
 * Após o encontro, a Lhampira vira uma nuvem e foge. Nós corremos atrás

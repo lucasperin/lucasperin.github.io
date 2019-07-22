@@ -35,12 +35,10 @@ para descansar.
 * Porta da Montanha.
  * 8 Orcs (800xp)
 
----
 # Recompensas
 
 * Nada
 
----
 # Experiência da Sessão.
 
 * 200xp por personagem.

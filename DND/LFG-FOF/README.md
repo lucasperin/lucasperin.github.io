@@ -5,7 +5,7 @@ Anotações de encontros de D&D 'Forge of Fury
 
 ## Local/cidade
 
-?
+* Blasingdell, uma pequena cidade nas proximidades da montanha Dente de Pedra ao norte de Faerûn.
 
 ## GRUPO
 * Haylan			- Elf Rogue		(Vinicius)
@@ -14,6 +14,11 @@ Anotações de encontros de D&D 'Forge of Fury
 * Thervan Rothenel	- Elf Wizard	(Pablo)
 
 ## NPCs
+
+* Jamella			- Humana	Taberneira de Mirabar.
+* Sarel Bankdown	- Meia-Elfa Taberneira de Blasingdell
+* Miles Berrick		- Humano	Prefeito de Blasingdell
+* Grendar Kuln		- Meio-Orc	Sargento, chefe vigia da cidade
 
 
 ## Missões completadas

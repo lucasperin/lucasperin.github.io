@@ -4,7 +4,7 @@
 ## Missões adquiridas
 * O grupo se encontrou em Mirabar, onde Kivish convenceu a todos de que eles deveriam ir até
 a cidade de Blasingdell. De lá eles tentariam invadir a antiga fortaleza de Kundrukar, em busca
-de riquesas do antigo clã Durgeddin.
+de riquezas do antigo clã Durgeddin.
 * Em Blazingdell, o prefeito Miles ofereceu uma recompensa de 25po para cada Orc que o grupo
 eliminar. Os aventureiros precisam comprovar de alguma forma, por exemplo, levando suas cabeças.
 

@@ -1,5 +1,5 @@
 
-# Anotações
+# Anotações Sessão 1
 
 ## Missões adquiridas
 * O grupo se encontrou em Mirabar, onde Kivish convenceu a todos de que eles deveriam ir até

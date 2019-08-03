@@ -1,5 +1,5 @@
 
-# Anotações
+# Anotações Sessão 2
 
 ## Missões adquiridas
 * O grupo encontrou dois fazendeiros locais. Ambos muito abatidos e mal tradados por cerca

@@ -34,7 +34,7 @@ os heróis vencem as defesas da tribo de Orcs e se protege dentro de uma passage
 
 # Sessão 2
 
-[2019-08-02](1-anotacoes.md)
+[2019-08-02](2-anotacoes.md)
 
 Após merecido descanso e um pouco de exploração os aventureiros enfrentam novas batalhas. Devido à um
 combate barulhento, o grupo desperta o restante do clã e precisa enfrentar tanto o general quanto o 

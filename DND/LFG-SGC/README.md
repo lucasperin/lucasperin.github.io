@@ -8,12 +8,20 @@ Anotações de encontros de D&D.
 Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do estabelecimento.
 
 ## GRUPO
+* Moh	 - Human (v) Druid
 * Alicia - Human 50 shades of Cleric 
 * Haylan - Elf Rogue 
 * Doru   - Tiefling Bard 
 * 4R-UH  - Warforged Fighter
+* Wrey Leafway - Human (v) Fighter
 
 ## Personagens
+
+### Bergshire
+* Desmund	- Humano Taberneiro
+* Shiek		- Gnome agente do Império
+
+### Kish
 
 * Bear 	- Dono da taberna Owlberg. 
 * Bug 	- Owlbear de estimação do Bear.
@@ -36,4 +44,10 @@ Adventure Hook: Estavamos na taberna, durante um aniversário, quando recebemos 
 Continuando a campanha, após o confronto contra uma lhama-vampiro na sessão passada, seguimos a procura do lhampiro e resolver o problema com as ovelhas de Bear. 
 
 
-sem data.
+# 3a Sessão
+[2019-08-18](3-anotacoes.md)
+
+Alguns poucos aventureiros ociosos decidem caçar lesmas gigantes (vivas) para
+montar uma armadilha contra um gigante falcão (Roc) que perturba a região ao redor
+da montanha Great Horn.
+

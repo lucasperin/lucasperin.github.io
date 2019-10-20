@@ -23,18 +23,29 @@
 	* No caminho, em direção à Kurshwikk, os aventureiros são atacados por uma horda de de
 	Orcs. Wrey morre durante o combate.
 	* Os aventureiros chegam em Kurshwikk. Na cidade, todos se escondem e fecham suas portas.
+	* Depois de algo estranho que (ninguém lembra) em Kurshwikk, seguimos em frente. 
+	* Clair, uma figura encapuzada nos encontra ao norte e se junta com a gente pois compartilha o mesmo destino.
+	* No deserto gramado, derrotamos a minha da areia
+	* Cruzamos o Bridge Gate e vamos até Goldhill.
+	* Em goldhill achamos Bobi , que não ajudou tão fácil. Depois de derrotá-lo ele retira a máscara do Moh.
+	* No caminho de volta, encontramos uma luz mágica e a seguimos. Chegando no local onde fomos guiados,
+	encontramos uma porta e um altar com uma bacia. Persival coloca leite na bacia e o chão desaparece.
+	* Enfrentamos a luz mágica.
 	
 
 # Encontros
 
 	* Orcs na floresta. RIP Wrey
+	* Minhoca da areia
+	* Kobolds (dodge)
+	* Bobi o mago
+	* Luz doidinha
 
 
 # Recompensa
 
 
-9
-
+	* ?
 
 
 

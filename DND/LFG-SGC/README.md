@@ -8,12 +8,14 @@ Anotações de encontros de D&D.
 Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do estabelecimento.
 
 ## GRUPO
-* Moh	 - Human (v) Druid
-* Alicia - Human 50 shades of Cleric 
-* Haylan - Elf Rogue 
-* Doru   - Tiefling Bard 
-* 4R-UH  - Warforged Fighter
-* Wrey Leafway - Human (v) Fighter
+* Moh			- Human (v) Druid
+* Alicia		- Human 50 shades of Cleric 
+* Haylan		- Elf Rogue 
+* Doru			- Tiefling Bard 
+* 4R-UH			- Warforged Fighter
+* Wrey Leafway	- Human (v) Fighter
+* Valar Murtaja - Dark Elf Warlock
+
 
 ## Personagens
 
@@ -50,4 +52,17 @@ Continuando a campanha, após o confronto contra uma lhama-vampiro na sessão pa
 Alguns poucos aventureiros ociosos decidem caçar lesmas gigantes (vivas) para
 montar uma armadilha contra um gigante falcão (Roc) que perturba a região ao redor
 da montanha Great Horn.
+
+# 4a Sessão
+[2019-09-07](4-anotacoes.md)
+
+Moh, Wrey e Valar viajam até a cidade de Snobtown para recuperar um artefato mágico
+de Desmund. No caminho, econtram "por acaso" uma phase spider.
+
+
+# 5a Sessão
+[2019-10-20](4-anotacoes.md)
+
+
+
 

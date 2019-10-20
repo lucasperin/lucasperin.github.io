@@ -2,15 +2,11 @@
 # Anotações
 
 ## Missão
-
-	Desmund nos pediu para recuperar um artefato mágico que está com o
-	filho de um ex colega de aventura dele, Snobfather. Snobinson mora
-	em Snobtown ao sul de Illardion Crest. Em troca ele ofereceu 400po
-	e suco de uva for life para os aventureiros.
-
-	Bobi Magoi barbudo velho 
-	Casa dele fica em goldhill
 	
+	Moh retorna de Snobintown com uma máscara mágica, transformado em Desmund.
+	O verdadeiro Desmund avisa que possivelmente Bobi, um mago conhecido dele, 
+	poderia ajudar. Desmundo entrega uma carta para que Moh entregue ao mago Bobi
+	e oferece 50po para levar Persival junto com ele.
 
 ## Eventos
 
@@ -22,11 +18,23 @@
 	* Desmund explica que um amigo, Bobi, poderia ajudar Moh a resolver o problema de sua máscara mágica.
 	* Moh explica o que aconteceu nos últimos dias para seus colegas Wrey e Valar e pede ajuda para
 	remover sua máscara. Desmund deu 50po para Moh levar Persival junto com eles.
-	* Persival e (Pablo) interagem.
+	* Persival e Niella interagem.
+	* Os aventureiros partem em direção à Goldhill para falar com Bobi, o mago.
+	* No caminho, em direção à Kurshwikk, os aventureiros são atacados por uma horda de de
+	Orcs. Wrey morre durante o combate.
+	* Os aventureiros chegam em Kurshwikk. Na cidade, todos se escondem e fecham suas portas.
+	
 
 # Encontros
 
+	* Orcs na floresta. RIP Wrey
+
 
 # Recompensa
+
+
+9
+
+
 
 

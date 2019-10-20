@@ -15,7 +15,8 @@ Cidade inicial, onde fica a taberna Shenanigans e o famoso Desmund, dono do esta
 * 4R-UH			- Warforged Fighter
 * Wrey Leafway	- Human (v) Fighter
 * Valar Murtaja - Dark Elf Warlock
-
+* Niella Espirito Livre - Goliath Barbarian
+* Claire		- Human - Thief
 
 ## Personagens
 

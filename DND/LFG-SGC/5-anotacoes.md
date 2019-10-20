@@ -35,7 +35,7 @@
 
 # Encontros
 
-	* Orcs na floresta. RIP Wrey
+	* 5 Orcs e um Orog na floresta. RIP Wrey
 	* Minhoca da areia
 	* Kobolds (dodge)
 	* Bobi o mago
